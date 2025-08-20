@@ -20,5 +20,5 @@ This repository contains my practice work and projects in the field of Data Scie
 ---
 
 ## ✅ Progress
-This repository is updated regularly with code, notes, and experiments as part of my continuous learning in Data Science.  
+This repository is updated  regularly with code, notes, and experiments as part of my continuous learning in Data Science.  
 
